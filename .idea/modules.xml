@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DIO.backend-java.iml" filepath="$PROJECT_DIR$/.idea/DIO.backend-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposVariaveis/TiposVariaveis.iml" filepath="$PROJECT_DIR$/TiposVariaveis/TiposVariaveis.iml" />
     </modules>
   </component>
 </project>
